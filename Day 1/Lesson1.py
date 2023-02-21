@@ -2,7 +2,7 @@ from turtle import *
 
 #we want to paint a house
 
-#step 1: Drawaing a squeare
+#step 1: Drawing a squeare
 
 speed(15)
 width(6)
